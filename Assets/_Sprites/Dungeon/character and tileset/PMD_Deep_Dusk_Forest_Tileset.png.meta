@@ -1,0 +1,3357 @@
+fileFormatVersion: 2
+guid: 5ab3dbaeb083239478ca41558e3dd53e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 583
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5158408, y: 0.46759728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c86ddc10cc2124fb76f57f345137cf
+      internalID: 192080709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 583
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8751e883949e5a54ca1dc01341906bb4
+      internalID: -295341847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 583
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535544ab980ce1f4897d27012f03432d
+      internalID: -1486409678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 558
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e1c19e95bfb3a4e882f62a0a09a7f2
+      internalID: -1975982687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 558
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e2a1958037fba4f976e52473c1981c
+      internalID: -593402608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 558
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3a87336ddc00f4ca707b3be48749c6
+      internalID: 1199621250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 533
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6c639045560174e934fbfb933403f5
+      internalID: 1793474038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 533
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4eae80686b7ff46875b474c373a798
+      internalID: -1007855395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 533
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469af4833250b5849a3a84e3a746058e
+      internalID: 1606441728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 508
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd3c254952a654419283291fc3dc944
+      internalID: -1582114969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 508
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45d8fd2f15b454438fd781780d771f3
+      internalID: -805050069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 508
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a038caaba0c043d4e8cedbbdfe0e586b
+      internalID: -1969273151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 483
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5357ace9a8e6c87419c193c7f42f5944
+      internalID: -281191719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 483
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d19efb21890664c9a986905c876dd3
+      internalID: 1538145535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 458
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff2b55ce4506244980a9a963dde1c5d
+      internalID: -820818629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 458
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c859717d7de93b458e3e18ae76f4b12
+      internalID: -297044971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 433
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce3861360dcd2e49ae82c743f813e98
+      internalID: 1633114297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 408
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326992474cf6fd04c8cd07462bb69801
+      internalID: 953568413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 408
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc8bfe3dae576f42a3895e72c474632
+      internalID: 1951690575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 408
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1136927e4cda72248923af5c799accce
+      internalID: 1520565294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 383
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024c45ad4f806ac468ca7927945f33cb
+      internalID: 1158779539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 358
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa1a4d124f7c0148a1e01d7fd1e6cec
+      internalID: 1427919542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 333
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6ad82450b9d3f40a1998957d4bcfb9
+      internalID: 215797172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 333
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833b5251a3fb54f4d9432bab30fc7914
+      internalID: 1578253624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 308
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f57bc8f64424b44a38d50012686dff
+      internalID: -124496886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 283
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af6061d32196174db9c48e359840522
+      internalID: -1887455694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 258
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a34378d8a53244690ea21121b1f62a
+      internalID: 131070808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 258
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07eb257d16a8d74cba579bc59fdd6f4
+      internalID: -878112906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 233
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbe230ba89c4a54d946a60d143939c0
+      internalID: -167647975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 208
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b971ec4b966b445acbcc278afeb09e
+      internalID: -2117250513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 208
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889deb87a8786ff4894df07b21a46c4a
+      internalID: -1198906136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 183
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffef9be44f3dbd4e9c8e6d6d7f061a2
+      internalID: 179177473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 183
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a14615116ee36b48b875b197de834c0
+      internalID: 93371515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 158
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef3f78fddf80f742bbb8c7f7af995ea
+      internalID: 57404609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 158
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761c43b1700d02d428e18c5b75a11403
+      internalID: 1832913121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 133
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1541a19a4312a46b2f700f0608ac37
+      internalID: -1167889859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 133
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3555d0a43a6c640932796d4dc7f066
+      internalID: 2064938653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 108
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21ec4328754ed34fbaa49dc55f10649
+      internalID: -376629615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 108
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124c004c87703e843865a3dad16eb0a0
+      internalID: 1617368631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 83
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d979c98a05434a4d82397a6095285e8
+      internalID: 195253167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 83
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6917110870a6f4586434324de7e375
+      internalID: -1437495808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 58
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03085a482b58af4187b07179529240a
+      internalID: 2133615301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 33
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac56eac02b2c7644eb2e9015c24ab0d2
+      internalID: 1741387290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 58
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0f67d019a38904f8fc1b6986371c53
+      internalID: -685640370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 33
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a264b98db3fde43b7c1bcd2c3616d7
+      internalID: -942837737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 33
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2904ae2399c2942a1f6629d03f1e91
+      internalID: 1412641676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 8
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eeb688da6628684b891536d8dfdd763
+      internalID: -1240278227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 8
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2091836d40b5a59448ba7b243670ce5d
+      internalID: 1702051449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 583
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f1920977548694a950a0a5d2f2c858
+      internalID: -1574782350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 583
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061040c8127508146adeaec34d62fab2
+      internalID: -1909307717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 583
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe06d0462cdd9043b72cae8db94f257
+      internalID: 1850246155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 558
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b0ea8ed5c6069418960119d6054a0e
+      internalID: -635182415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 558
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a520dfdd29439e9429494fc3d4c8aa29
+      internalID: 616143655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 558
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d195b985da99ba8448732dadd9e078fd
+      internalID: 1267715165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 533
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af559b2b8aa5b044aa5ef3322176992a
+      internalID: 334272650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 533
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d48d57d44874a4ba36bc05945b80d1
+      internalID: 1280829259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 533
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae22dc7b8b8ec7d4da76ab006951031d
+      internalID: -1554254811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 508
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c141ba52a81ee0e499d177d0e2c27e76
+      internalID: -690430875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 508
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fc3a3be56492a49985a58d9f17233f
+      internalID: -1501552825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 508
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1635bb803ff819942aab5cb4ef269474
+      internalID: 2003832234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 483
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3d3eb92edf26040b9cacd02489c2f9
+      internalID: -759849000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 483
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4c97621885bb64e8f7747a0de0b527
+      internalID: 531985290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 458
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f559872d7a45f47498654c51f5f7d670
+      internalID: -799521578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_63
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 458
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325bd9b5dea802247a180606270c561c
+      internalID: 1067328691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_64
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 433
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd661b5841ce1ae41b092dbdd3ee0a64
+      internalID: -1814102501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_65
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 408
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d831102b7cea749a358379b51e538f
+      internalID: 594160763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_66
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 408
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da6fd9fa5a771d4d90f3f2f47d11f93
+      internalID: 1471129840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_67
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 408
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e4ab517958b844fb536ed4583cbaac
+      internalID: 640746291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_68
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 383
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a44430ea6ab404b843ff21b8d6d7e7
+      internalID: 1136822206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_69
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 358
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976daa51d362ff14c971529397aaa3d7
+      internalID: 1676641965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_70
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 333
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4e888af39cb6948bfcaa89c95226c6
+      internalID: 1582054602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_71
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 333
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283371b86fcadec41bc6986517c62110
+      internalID: -1326871400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_72
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 308
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490612f5576db0c48a0012fd407481dd
+      internalID: 1000364949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_73
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 283
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ba78fa36895ef40a2fd13675d96a19
+      internalID: 77116384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_74
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 258
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa8b0f909982c74c93852799a5910fe
+      internalID: -495301902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_75
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 258
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3609f1ffffc1f594ebdc1d08db4bd8a6
+      internalID: 674143187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_76
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 233
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e91137ea2727e14ea23b1274ef619fa
+      internalID: -1693110827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_77
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 208
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e8bfbbf1a742140974dbe37fc48bce
+      internalID: 1244193949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_78
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 208
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c968e5d25e731e9428bfb279df8bbccf
+      internalID: -1478502794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_79
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 183
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efac3b25b5c1d6041bf165f895394652
+      internalID: 765351121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_80
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 183
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56545d713c0adb442b5b58db9b9a3e75
+      internalID: 1564481809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_81
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 158
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcce002f266e9d647846655727e17796
+      internalID: 1141119376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_82
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 158
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b57309ec2c96142affac13c213df72
+      internalID: -731179054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_83
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 133
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1a55dccc6d38e479675c0cbb3ec9b9
+      internalID: 1069889071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_84
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 133
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bb66f1345486643b790a85b00c7d5c
+      internalID: 919727391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_85
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 108
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee20f4845121cab4a9b21b6a1c716361
+      internalID: -94941352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_86
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 108
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ff00a411e369040ae8ce9d8cf7660d
+      internalID: -41839474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_87
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 83
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd8b67b96563e54bbe9853a4f89fc9d
+      internalID: -888434117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_88
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 83
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55f43eea533adb408ac7d3fd362f913
+      internalID: 1398056667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_89
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 58
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77e0b7102e98f94db1f213ecf085e58
+      internalID: 666589182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_90
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 58
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac370f7e9db4d5141b24ddb91d21ab45
+      internalID: -16758585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_91
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 33
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13fa6c342ea5754f9f249173f145248
+      internalID: -665663304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_92
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 33
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d445f1641bf87409e5716e0be4510d
+      internalID: 1278303511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_93
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 8
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adb19e731fc7d144ba6c354a7e7846f
+      internalID: 2065966280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_94
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 8
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d00345a6f1f0f94c826813f570f359c
+      internalID: 1641205758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_95
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 8
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48613834, y: 0.46759543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43b61afef6ba0c4a874b4a3ba52f7cb
+      internalID: 956340764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_96
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 558
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9868befaac2464d4bb0fa2bd121f98c0
+      internalID: -1059054647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_97
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 558
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0d225e7e76c1349a4b968643335efa
+      internalID: 1129000664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_98
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 558
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b824a7032c9a641a5160b4a05fb19c
+      internalID: -786823654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_99
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 583
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796805, y: 0.50049335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cda8887326116146a2db6e0f1b4a92f
+      internalID: 1906450744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_100
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 583
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37673582ab794c54cbea25a8ba9fcaac
+      internalID: -88195174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_101
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 583
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e309edb86e4a3b54ca0abc1c6442fbed
+      internalID: 955479098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_102
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 558
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5246b793ac5da4aa10e8f267078d02
+      internalID: 576058389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_103
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 558
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543042689b0110044bd48c8f9bb243a1
+      internalID: 106345541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_104
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 558
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc011f0f0905fa849b38a932baa8b435
+      internalID: 1812715658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_105
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 533
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe51ee4326a61f84dbbc1d58b5d40f5d
+      internalID: -304869781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_106
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 533
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ede78d85c60864ea7b3614bd7e379b
+      internalID: 442706112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_107
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 533
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c814051f1b2ad14f8a0ac02d0aaff19
+      internalID: 1710096295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_108
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 508
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4bd091379879e43abce5f2e8599909
+      internalID: 117414357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_109
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 508
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b258bd778f93d40a4722b45701711a
+      internalID: 1528097505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_110
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 508
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092e4f6738089a84187bcfa15783524a
+      internalID: 2003296587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_111
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 483
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee24868b0e2edb743b089daef518cc3f
+      internalID: 1944135350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_112
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 483
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0cf6fdd571ef74c97f9e40ae657c14
+      internalID: -1561905457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_113
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 458
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fe5cadf514747489d750a990421bd5
+      internalID: 497787474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_114
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 458
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3a95687c83bcc4ca09fc655096ec6b
+      internalID: -1780705680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_115
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 433
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82d1a3b10b84bb41be20171f9eab207
+      internalID: -129952383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_116
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 408
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d24eda0bbd2ce24d80e997bcc476ffa
+      internalID: -266662709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_117
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 408
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1032ea2364d6eb74cbb51bde70e7d238
+      internalID: 2083916880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_118
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 408
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499cf15f23654984fb91e9c2fb951430
+      internalID: -1163677006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_119
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 383
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbc6bb36365a984d89849ec7895f5a9
+      internalID: 1625278577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_120
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 358
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b484ea0e2f4ca4d94c292d979d59c8
+      internalID: -662060975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_121
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 333
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acec25e0ad6ff2540862d0df810ce9eb
+      internalID: 981791936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_122
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 333
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2306336808842bf46bd3d8b967e3830d
+      internalID: 973457362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_123
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 308
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e417f6f3d5a6c438a395c36c3f7009
+      internalID: -1571339013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_124
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 283
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8414ecb4901a448aedd7f2c42dea3d
+      internalID: -1209003187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_125
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 258
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6b23b821196ba42968f476bc1fdfa8
+      internalID: -299146825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_126
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 258
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2919b14bd35be43a0fc7ac0b8b2aa3
+      internalID: 1294519336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_127
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 233
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4176bdde51c2e4a48be5bb23934aad9b
+      internalID: 134796568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_128
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 208
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d4e769df5a5374cba17a2f016ff1f2
+      internalID: -1898787719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_129
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 208
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70274015dd82b154d9532809ecee5241
+      internalID: 1983793657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_130
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 183
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48a3c82b1c06b4439efcb44d362765c
+      internalID: -1771476651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_131
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 183
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c73cb48371eccd46ade9387a53bede6
+      internalID: -1034168922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_132
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 158
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d96474b6877c894888b5ccd5fb67532
+      internalID: -119269218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_133
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 158
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb15787d91fc514492c0a0fda8bded2
+      internalID: -595514827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_134
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 133
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcf09b042bd3334f9745bb0e7893b5a
+      internalID: -1492537623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_135
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 133
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15fac73fff9f994faa35cc4986ef22f
+      internalID: 1087470091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_136
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 108
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2751819e0b83ee1479d50188a98ab1bf
+      internalID: -1701438853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_137
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 108
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d618fe26d60df438e6896e29439027
+      internalID: -174601186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_138
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 83
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c02e1302bd7304383df4cf1437a700
+      internalID: 743123650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_139
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 83
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddcb05575fcb7d409dd5a4d72d22931
+      internalID: -2001366382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_140
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 58
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59ef1ea49a301c418a0e5ccf1830703
+      internalID: 1462939305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_141
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 58
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18d28beeba807e4aa7c450f40ee741f
+      internalID: 1813094559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_142
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 33
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a5bcc63b75cb146826ba17ab35d8ea
+      internalID: -1970611349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_143
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 33
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea7b57a4f42cea4e8630df1e00267bf
+      internalID: -224134314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_144
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 8
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c382d70f6f95e40bba076547603afd
+      internalID: 393282936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_145
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 8
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de77f509004f5f141a7b57703525ea8b
+      internalID: 905687959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMD_Deep_Dusk_Forest_Tileset_146
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 8
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49796548, y: 0.5195053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f61157f2d052e04b8abaea32d0374a6
+      internalID: -1291514780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 545d1b734557246498c2aeaa3c3b65f9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PMD_Deep_Dusk_Forest_Tileset_46: -1240278227
+      PMD_Deep_Dusk_Forest_Tileset_30: -1198906136
+      PMD_Deep_Dusk_Forest_Tileset_109: 1528097505
+      PMD_Deep_Dusk_Forest_Tileset_143: -224134314
+      PMD_Deep_Dusk_Forest_Tileset_62: -799521578
+      PMD_Deep_Dusk_Forest_Tileset_55: 1280829259
+      PMD_Deep_Dusk_Forest_Tileset_56: -1554254811
+      PMD_Deep_Dusk_Forest_Tileset_59: 2003832234
+      PMD_Deep_Dusk_Forest_Tileset_110: 2003296587
+      PMD_Deep_Dusk_Forest_Tileset_51: -635182415
+      PMD_Deep_Dusk_Forest_Tileset_145: 905687959
+      PMD_Deep_Dusk_Forest_Tileset_95: 956340764
+      PMD_Deep_Dusk_Forest_Tileset_69: 1676641965
+      PMD_Deep_Dusk_Forest_Tileset_67: 640746291
+      PMD_Deep_Dusk_Forest_Tileset_70: 1582054602
+      PMD_Deep_Dusk_Forest_Tileset_68: 1136822206
+      PMD_Deep_Dusk_Forest_Tileset_76: -1693110827
+      PMD_Deep_Dusk_Forest_Tileset_87: -888434117
+      PMD_Deep_Dusk_Forest_Tileset_86: -41839474
+      PMD_Deep_Dusk_Forest_Tileset_64: -1814102501
+      PMD_Deep_Dusk_Forest_Tileset_66: 1471129840
+      PMD_Deep_Dusk_Forest_Tileset_45: 1412641676
+      PMD_Deep_Dusk_Forest_Tileset_123: -1571339013
+      PMD_Deep_Dusk_Forest_Tileset_71: -1326871400
+      PMD_Deep_Dusk_Forest_Tileset_120: -662060975
+      PMD_Deep_Dusk_Forest_Tileset_74: -495301902
+      PMD_Deep_Dusk_Forest_Tileset_118: -1163677006
+      PMD_Deep_Dusk_Forest_Tileset_93: 2065966280
+      PMD_Deep_Dusk_Forest_Tileset_108: 117414357
+      PMD_Deep_Dusk_Forest_Tileset_83: 1069889071
+      PMD_Deep_Dusk_Forest_Tileset_94: 1641205758
+      PMD_Deep_Dusk_Forest_Tileset_107: 1710096295
+      PMD_Deep_Dusk_Forest_Tileset_5: 1199621250
+      PMD_Deep_Dusk_Forest_Tileset_31: 179177473
+      PMD_Deep_Dusk_Forest_Tileset_111: 1944135350
+      PMD_Deep_Dusk_Forest_Tileset_141: 1813094559
+      PMD_Deep_Dusk_Forest_Tileset_106: 442706112
+      PMD_Deep_Dusk_Forest_Tileset_135: 1087470091
+      PMD_Deep_Dusk_Forest_Tileset_113: 497787474
+      PMD_Deep_Dusk_Forest_Tileset_114: -1780705680
+      PMD_Deep_Dusk_Forest_Tileset_10: -805050069
+      PMD_Deep_Dusk_Forest_Tileset_29: -2117250513
+      PMD_Deep_Dusk_Forest_Tileset_20: 1158779539
+      PMD_Deep_Dusk_Forest_Tileset_140: 1462939305
+      PMD_Deep_Dusk_Forest_Tileset_8: 1606441728
+      PMD_Deep_Dusk_Forest_Tileset_92: 1278303511
+      PMD_Deep_Dusk_Forest_Tileset_115: -129952383
+      PMD_Deep_Dusk_Forest_Tileset_89: 666589182
+      PMD_Deep_Dusk_Forest_Tileset_36: 2064938653
+      PMD_Deep_Dusk_Forest_Tileset_103: 106345541
+      PMD_Deep_Dusk_Forest_Tileset_96: -1059054647
+      PMD_Deep_Dusk_Forest_Tileset_0: 192080709
+      PMD_Deep_Dusk_Forest_Tileset_116: -266662709
+      PMD_Deep_Dusk_Forest_Tileset_34: 1832913121
+      PMD_Deep_Dusk_Forest_Tileset_125: -299146825
+      PMD_Deep_Dusk_Forest_Tileset_11: -1969273151
+      PMD_Deep_Dusk_Forest_Tileset_37: -376629615
+      PMD_Deep_Dusk_Forest_Tileset_48: -1574782350
+      PMD_Deep_Dusk_Forest_Tileset_50: 1850246155
+      PMD_Deep_Dusk_Forest_Tileset_25: -1887455694
+      PMD_Deep_Dusk_Forest_Tileset_4: -593402608
+      PMD_Deep_Dusk_Forest_Tileset_91: -665663304
+      PMD_Deep_Dusk_Forest_Tileset_73: 77116384
+      PMD_Deep_Dusk_Forest_Tileset_44: -942837737
+      PMD_Deep_Dusk_Forest_Tileset_52: 616143655
+      PMD_Deep_Dusk_Forest_Tileset_39: 195253167
+      PMD_Deep_Dusk_Forest_Tileset_132: -119269218
+      PMD_Deep_Dusk_Forest_Tileset_79: 765351121
+      PMD_Deep_Dusk_Forest_Tileset_21: 1427919542
+      PMD_Deep_Dusk_Forest_Tileset_17: 953568413
+      PMD_Deep_Dusk_Forest_Tileset_82: -731179054
+      PMD_Deep_Dusk_Forest_Tileset_85: -94941352
+      PMD_Deep_Dusk_Forest_Tileset_53: 1267715165
+      PMD_Deep_Dusk_Forest_Tileset_142: -1970611349
+      PMD_Deep_Dusk_Forest_Tileset_24: -124496886
+      PMD_Deep_Dusk_Forest_Tileset_27: -878112906
+      PMD_Deep_Dusk_Forest_Tileset_19: 1520565294
+      PMD_Deep_Dusk_Forest_Tileset_77: 1244193949
+      PMD_Deep_Dusk_Forest_Tileset_72: 1000364949
+      PMD_Deep_Dusk_Forest_Tileset_105: -304869781
+      PMD_Deep_Dusk_Forest_Tileset_84: 919727391
+      PMD_Deep_Dusk_Forest_Tileset_80: 1564481809
+      PMD_Deep_Dusk_Forest_Tileset_35: -1167889859
+      PMD_Deep_Dusk_Forest_Tileset_7: -1007855395
+      PMD_Deep_Dusk_Forest_Tileset_23: 1578253624
+      PMD_Deep_Dusk_Forest_Tileset_6: 1793474038
+      PMD_Deep_Dusk_Forest_Tileset_97: 1129000664
+      PMD_Deep_Dusk_Forest_Tileset_121: 981791936
+      PMD_Deep_Dusk_Forest_Tileset_136: -1701438853
+      PMD_Deep_Dusk_Forest_Tileset_124: -1209003187
+      PMD_Deep_Dusk_Forest_Tileset_90: -16758585
+      PMD_Deep_Dusk_Forest_Tileset_57: -690430875
+      PMD_Deep_Dusk_Forest_Tileset_102: 576058389
+      PMD_Deep_Dusk_Forest_Tileset_138: 743123650
+      PMD_Deep_Dusk_Forest_Tileset_12: -281191719
+      PMD_Deep_Dusk_Forest_Tileset_144: 393282936
+      PMD_Deep_Dusk_Forest_Tileset_129: 1983793657
+      PMD_Deep_Dusk_Forest_Tileset_49: -1909307717
+      PMD_Deep_Dusk_Forest_Tileset_126: 1294519336
+      PMD_Deep_Dusk_Forest_Tileset_133: -595514827
+      PMD_Deep_Dusk_Forest_Tileset_98: -786823654
+      PMD_Deep_Dusk_Forest_Tileset_3: -1975982687
+      PMD_Deep_Dusk_Forest_Tileset_75: 674143187
+      PMD_Deep_Dusk_Forest_Tileset_104: 1812715658
+      PMD_Deep_Dusk_Forest_Tileset_26: 131070808
+      PMD_Deep_Dusk_Forest_Tileset_42: 1741387290
+      PMD_Deep_Dusk_Forest_Tileset_9: -1582114969
+      PMD_Deep_Dusk_Forest_Tileset_127: 134796568
+      PMD_Deep_Dusk_Forest_Tileset_28: -167647975
+      PMD_Deep_Dusk_Forest_Tileset_16: 1633114297
+      PMD_Deep_Dusk_Forest_Tileset_139: -2001366382
+      PMD_Deep_Dusk_Forest_Tileset_99: 1906450744
+      PMD_Deep_Dusk_Forest_Tileset_122: 973457362
+      PMD_Deep_Dusk_Forest_Tileset_60: -759849000
+      PMD_Deep_Dusk_Forest_Tileset_131: -1034168922
+      PMD_Deep_Dusk_Forest_Tileset_40: -1437495808
+      PMD_Deep_Dusk_Forest_Tileset_33: 57404609
+      PMD_Deep_Dusk_Forest_Tileset_58: -1501552825
+      PMD_Deep_Dusk_Forest_Tileset_119: 1625278577
+      PMD_Deep_Dusk_Forest_Tileset_54: 334272650
+      PMD_Deep_Dusk_Forest_Tileset_14: -820818629
+      PMD_Deep_Dusk_Forest_Tileset_22: 215797172
+      PMD_Deep_Dusk_Forest_Tileset_137: -174601186
+      PMD_Deep_Dusk_Forest_Tileset_47: 1702051449
+      PMD_Deep_Dusk_Forest_Tileset_1: -295341847
+      PMD_Deep_Dusk_Forest_Tileset_18: 1951690575
+      PMD_Deep_Dusk_Forest_Tileset_128: -1898787719
+      PMD_Deep_Dusk_Forest_Tileset_32: 93371515
+      PMD_Deep_Dusk_Forest_Tileset_134: -1492537623
+      PMD_Deep_Dusk_Forest_Tileset_81: 1141119376
+      PMD_Deep_Dusk_Forest_Tileset_13: 1538145535
+      PMD_Deep_Dusk_Forest_Tileset_78: -1478502794
+      PMD_Deep_Dusk_Forest_Tileset_146: -1291514780
+      PMD_Deep_Dusk_Forest_Tileset_2: -1486409678
+      PMD_Deep_Dusk_Forest_Tileset_63: 1067328691
+      PMD_Deep_Dusk_Forest_Tileset_88: 1398056667
+      PMD_Deep_Dusk_Forest_Tileset_101: 955479098
+      PMD_Deep_Dusk_Forest_Tileset_41: 2133615301
+      PMD_Deep_Dusk_Forest_Tileset_43: -685640370
+      PMD_Deep_Dusk_Forest_Tileset_61: 531985290
+      PMD_Deep_Dusk_Forest_Tileset_112: -1561905457
+      PMD_Deep_Dusk_Forest_Tileset_65: 594160763
+      PMD_Deep_Dusk_Forest_Tileset_38: 1617368631
+      PMD_Deep_Dusk_Forest_Tileset_117: 2083916880
+      PMD_Deep_Dusk_Forest_Tileset_15: -297044971
+      PMD_Deep_Dusk_Forest_Tileset_100: -88195174
+      PMD_Deep_Dusk_Forest_Tileset_130: -1771476651
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
