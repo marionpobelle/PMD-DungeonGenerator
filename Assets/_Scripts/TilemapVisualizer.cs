@@ -16,7 +16,7 @@ public class TilemapVisualizer : MonoBehaviour
     specialCornerUpLeft, specialCornerUpRight, specialCornerDownLeft, specialCornerDownRight,
     specialTop, specialBottom, specialLeft, specialRight, specialFull, specialSingle,
     specialLongHorizontal, specialLongVertical, specialLongCornerUpLeft, specialLongCornerUpRight, specialLongCornerDownLeft, specialLongCornerDownRight,
-    specialLongEndTop, specialLongEndDown, specialLongEndLeft, specialLongEndRight,
+    specialLongEndTop, specialLongEndDown, specialLongEndLeft, specialLongEndRight, specialLongMiddle,
     specialTopInnerBottom, specialBottomInnerTop, specialLeftInnerRight, specialRightInnerLeft,
     specialInnerBottom, specialInnerTop, specialInnerLeft, specialInnerRight,
     specialInnerDownRight, specialInnerDownLeft, specialInnerUpLeft, specialInnerUpRight,
@@ -213,7 +213,7 @@ public class TilemapVisualizer : MonoBehaviour
         {
             tile = specialLongCornerUpLeft;
         }
-        else if(SpecialByteTypes.specialLongCornerUpLeft.Contains(typeAsInt))
+        else if(SpecialByteTypes.specialLongCornerUpRight.Contains(typeAsInt))
         {
             tile = specialLongCornerUpRight;
         }

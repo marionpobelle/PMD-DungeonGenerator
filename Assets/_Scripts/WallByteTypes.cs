@@ -54,13 +54,13 @@ public static class WallByteTypes
     public static HashSet<int> wallInnerCornerDownRight = new HashSet<int>
     {
         0b11000111,
+        0b01000011,
         0b11000011,
         0b10000011,
         0b10000111,
         0b10000010,
         0b01000101,
         0b11000101,
-        0b01000011,
         0b10000101,
         0b01000111,
         0b01000100,

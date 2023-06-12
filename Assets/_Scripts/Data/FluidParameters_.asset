@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be12ce0c8181ee149a43236647db5ae5, type: 3}
   m_Name: FluidParameters_
   m_EditorClassIdentifier: 
-  specialDensity: 20
-  erraticPath: 4
+  specialDensity: 10
+  erraticPath: 2
   pathLength: 4
-  pathCount: 5
-  walkLength: 20
-  iterations: 10
+  pathCount: 4
+  walkLength: 10
+  iterations: 5
   startRandomlyEachIteration: 1

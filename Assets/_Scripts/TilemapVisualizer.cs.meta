@@ -3,7 +3,73 @@ guid: 9ef1c210db2a15144b6c93da1d060da6
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - floorTilemap: {instanceID: 0}
+  - wallTilemap: {instanceID: 0}
+  - fillTilemap: {instanceID: 0}
+  - specialTerrainTilemap: {instanceID: 0}
+  - floorTile: {fileID: 11400000, guid: 831921ba5a8a50f4aa3f949e42828614, type: 2}
+  - wallTop: {fileID: 11400000, guid: 5cfd3acc0d5e8eb46b70c652ae0d4728, type: 2}
+  - wallSideRight: {fileID: 11400000, guid: a253ea28099e8234fae7206de44d7874, type: 2}
+  - wallSideLeft: {fileID: 11400000, guid: e2661729d55963c418f844fd00da6bec, type: 2}
+  - wallBottom: {fileID: 11400000, guid: 1c7f0669260fa154aa67f5714954cad2, type: 2}
+  - wallFull: {fileID: 11400000, guid: 2751fe667daa65b4ebf89ced2bf63ad8, type: 2}
+  - wallInnerCornerDownLeft: {fileID: 11400000, guid: 6cd2bb0a0ddfbee44bc768c2648dec7a, type: 2}
+  - wallInnerCornerDownRight: {fileID: 11400000, guid: 3f7456c3405978146b1df82a1355c303, type: 2}
+  - wallInnerCornerUpLeft: {fileID: 11400000, guid: b13fb62692524e54b9f4d164251898d2, type: 2}
+  - wallInnerCornerUpRight: {fileID: 11400000, guid: e5a4ba3302cd1e348b4d8c6cc33a73e2, type: 2}
+  - wallDiagonalCornerDownRight: {fileID: 11400000, guid: 2a5d1785e696a344d88018fe47da2045, type: 2}
+  - wallDiagonalCornerDownLeft: {fileID: 11400000, guid: dbe9d4392e8ae8d4ca423154953f36c1, type: 2}
+  - wallDiagonalCornerUpRight: {fileID: 11400000, guid: d525168cdd8a9ff4ea824b34201a41f0, type: 2}
+  - wallDiagonalCornerUpLeft: {fileID: 11400000, guid: da64da85255469c408da6c4b70fb34a9, type: 2}
+  - fillTile: {fileID: 11400000, guid: 418c138a12988da47a3adb51340cdca4, type: 2}
+  - specialCornerUpLeft: {fileID: 11400000, guid: b08081b0a26f82d41bb9154f6f46b9a0, type: 2}
+  - specialCornerUpRight: {fileID: 11400000, guid: 952b2fedc1e53674aa5e723f0923e070, type: 2}
+  - specialCornerDownLeft: {fileID: 11400000, guid: de95959a08a8d9544a0501e0ba082884, type: 2}
+  - specialCornerDownRight: {fileID: 11400000, guid: ad98b32b4dbbe3945aa82dc9feb9529c, type: 2}
+  - specialTop: {fileID: 11400000, guid: 5f5ef3b6c4e90bc439c561415e9a2686, type: 2}
+  - specialBottom: {fileID: 11400000, guid: 1005ca125e0ca57439c0b90d32b887f5, type: 2}
+  - specialLeft: {fileID: 11400000, guid: 9bc40f4e61404674a809fee8dead9b8a, type: 2}
+  - specialRight: {fileID: 11400000, guid: 183153f56ef77394789f55ecfd135771, type: 2}
+  - specialFull: {fileID: 11400000, guid: b3e84141552f4fc47bbbcb88d9a10916, type: 2}
+  - specialSingle: {fileID: 11400000, guid: 142485bd9fd423049941ed99b3f1475e, type: 2}
+  - specialLongHorizontal: {fileID: 11400000, guid: 01b8d3118d545f44b988ca114d5965fc, type: 2}
+  - specialLongVertical: {fileID: 11400000, guid: a57cb52e8b2c0c846bf5fb87e3dd9b7a, type: 2}
+  - specialLongCornerUpLeft: {fileID: 11400000, guid: 40e5799395691be43a149d78b5d6fb28, type: 2}
+  - specialLongCornerUpRight: {fileID: 11400000, guid: 56043824098cf284d897f8683f1e76ac, type: 2}
+  - specialLongCornerDownLeft: {fileID: 11400000, guid: 088c96bd938350943a2bde54aaec2767, type: 2}
+  - specialLongCornerDownRight: {fileID: 11400000, guid: 9e5a92b09391e4a4fa3315d0d786796c, type: 2}
+  - specialLongEndTop: {fileID: 11400000, guid: 10e4eb875cde43e41ba13beb3f46a27b, type: 2}
+  - specialLongEndDown: {fileID: 11400000, guid: a996fc934f975494c93ac476e38736f9, type: 2}
+  - specialLongEndLeft: {fileID: 11400000, guid: 5b871b204c29ea64a91e372d0757729a, type: 2}
+  - specialLongEndRight: {fileID: 11400000, guid: c88c2ddde96fda94d8e08d0fd05ae868, type: 2}
+  - specialLongMiddle: {instanceID: 0}
+  - specialTopInnerBottom: {instanceID: 0}
+  - specialBottomInnerTop: {instanceID: 0}
+  - specialLeftInnerRight: {instanceID: 0}
+  - specialRightInnerLeft: {instanceID: 0}
+  - specialInnerBottom: {instanceID: 0}
+  - specialInnerTop: {instanceID: 0}
+  - specialInnerLeft: {instanceID: 0}
+  - specialInnerRight: {instanceID: 0}
+  - specialInnerDownRight: {instanceID: 0}
+  - specialInnerDownLeft: {instanceID: 0}
+  - specialInnerUpLeft: {instanceID: 0}
+  - specialInnerUpRight: {instanceID: 0}
+  - specialLeftInnerDownRight: {instanceID: 0}
+  - specialRightInnerUpLeft: {instanceID: 0}
+  - specialBottomInnerUpRight: {instanceID: 0}
+  - specialTopInnerDownLeft: {instanceID: 0}
+  - specialLeftInnerUpRight: {instanceID: 0}
+  - specialBottomInnerUpLeft: {instanceID: 0}
+  - specialTopInnerDownRight: {instanceID: 0}
+  - specialRightInnerDownLeft: {instanceID: 0}
+  - specialInnerDiagUpLeft: {instanceID: 0}
+  - specialInnerDiagUpRight: {instanceID: 0}
+  - specialInnerDiagDownLeft: {instanceID: 0}
+  - specialInnerDiagDownRight: {instanceID: 0}
+  - specialDiagUpLeftDownRight: {instanceID: 0}
+  - specialDiagDownLeftUpRight: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

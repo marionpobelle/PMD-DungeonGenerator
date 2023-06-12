@@ -36,7 +36,7 @@ public class RoomFirstDungeonGenerator : AbstractDungeonGenerator
         HashSet<Vector2Int> fill = new HashSet<Vector2Int>();
         HashSet<Vector2Int> dummies = new HashSet<Vector2Int>();
         HashSet<Vector2Int> special = new HashSet<Vector2Int>();
-        //
+        
         HashSet<Vector2Int> specialPath = new HashSet<Vector2Int>();
 
         HashSet<Vector2Int> walls = new HashSet<Vector2Int>();
@@ -49,14 +49,14 @@ public class RoomFirstDungeonGenerator : AbstractDungeonGenerator
             startPositionSpecial = new Vector2Int(UnityEngine.Random.Range(1, dungeonParam.dungeonWidth), UnityEngine.Random.Range(1, dungeonParam.dungeonHeight));
             special.UnionWith(specialTerrainGenerator.CreateSpecialTerrain(startPositionSpecial, specialParameters));
         }
-        //
+        
         Vector2Int startPositionPath = new Vector2Int();
         for(int i=0; i< specialParameters.erraticPath; i++){
             startPositionPath = new Vector2Int(UnityEngine.Random.Range(1, dungeonParam.dungeonWidth), UnityEngine.Random.Range(1, dungeonParam.dungeonHeight));
             specialPath.UnionWith(specialTerrainGenerator.CreateErraticPath(startPositionPath,  specialParameters));
         }
         special.UnionWith(specialPath);
-        //wa
+        
         List<Vector2Int> outOfBoundSpecial = new List<Vector2Int>();
         foreach(Vector2Int pos in special){
             if(pos.x > dungeonParam.dungeonWidth || pos.x < 0)
