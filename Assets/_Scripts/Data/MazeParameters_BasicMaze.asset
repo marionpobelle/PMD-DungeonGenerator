@@ -15,4 +15,4 @@ MonoBehaviour:
   deadendDensity: 8
   minRoomWidth: 10
   minRoomHeight: 10
-  offset: 2
+  offset: 3

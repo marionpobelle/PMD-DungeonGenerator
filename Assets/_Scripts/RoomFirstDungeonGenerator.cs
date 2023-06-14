@@ -115,6 +115,7 @@ public class RoomFirstDungeonGenerator : AbstractDungeonGenerator
             HashSet<Vector2Int> newCorridor = CreateCorridor(currentRoomCenter, closest);
             currentRoomCenter = closest;
             corridors.UnionWith(newCorridor);
+            
         }
         return corridors;
     }

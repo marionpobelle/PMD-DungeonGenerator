@@ -18,4 +18,5 @@ public class MazeSO : ScriptableObject
     [Tooltip("Offset between rooms")]
     [Range(0,10)]
     public int offset = 1;
+
 }

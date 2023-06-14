@@ -242,6 +242,10 @@ public class TilemapVisualizer : MonoBehaviour
         {
             tile = specialLongEndRight;
         }
+        else if(SpecialByteTypes.specialLongMiddle.Contains(typeAsInt))
+        {
+            tile = specialLongMiddle;
+        }
         //
         else if(SpecialByteTypes.specialTopInnerBottom.Contains(typeAsInt))
         {
